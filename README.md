@@ -92,3 +92,16 @@ b - реализован backend
 
 ### 8. Продажи:  
    В разработке  
+
+
+## Изображения из приложения:  
+Окно авторизации  
+![Окно авторизации](https://github.com/Markitosik/Desk_app_for_massage_salone/blob/master/images/demonstration/authorization_frame.png)
+
+
+Главное окно/фрейм расписания  
+![Главное окно/фрейм расписания](https://github.com/Markitosik/Desk_app_for_massage_salone/blob/master/images/demonstration/schedule_frame.png)
+
+
+Главное окно/фрейм каталога услуг  
+![Главное окно/фрейм каталога услуг](https://github.com/Markitosik/Desk_app_for_massage_salone/blob/master/images/demonstration/services_frame.png)
